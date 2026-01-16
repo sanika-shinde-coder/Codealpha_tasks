@@ -54,6 +54,7 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
 🛠 Tools & Technologies Used
 
    Power BI – Data modeling, DAX, dashboard creation
+   
    Microsoft Excel – Data cleaning and preprocessing
 
 
