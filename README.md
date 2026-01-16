@@ -1,4 +1,4 @@
-1.Mobile_Sales Analysis
+1.MOBILE SALES ANALYSIS
 📌 Project Overview
 
 This project features an interactive Power BI dashboard designed to analyze mobile phone sales data across multiple business dimensions. The goal is to transform raw sales data into meaningful insights that support data-driven decision making.
@@ -59,7 +59,9 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
    Microsoft Excel – Data cleaning and preprocessing
 
 
-2.Sentiment Analysis
+
+
+2.SENTIMENT ANALYSIS
 📌 Project Overview
 
 This project performs sentiment analysis on Amazon product reviews to understand customer opinions and sentiment trends. Using Natural Language Processing (NLP) techniques and the VADER sentiment lexicon, reviews are classified into Positive, Negative, and Neutral categories. The results are visualized using multiple charts to derive meaningful insights.
