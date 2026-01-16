@@ -1,3 +1,4 @@
+1.Mobile_Sales Analysis
 📌 Project Overview
 
 This project features an interactive Power BI dashboard designed to analyze mobile phone sales data across multiple business dimensions. The goal is to transform raw sales data into meaningful insights that support data-driven decision making.
@@ -58,4 +59,87 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
    Microsoft Excel – Data cleaning and preprocessing
 
 
+2.Sentiment Analysis
+📌 Project Overview
 
+This project performs sentiment analysis on Amazon product reviews to understand customer opinions and sentiment trends. Using Natural Language Processing (NLP) techniques and the VADER sentiment lexicon, reviews are classified into Positive, Negative, and Neutral categories. The results are visualized using multiple charts to derive meaningful insights.
+
+🎯 Objectives
+
+Classify customer reviews into Positive, Negative, and Neutral sentiments
+
+Analyze sentiment trends across different star ratings
+
+Visualize sentiment distribution and review patterns
+
+Gain insights into customer behavior and public opinion
+
+🗂 Dataset
+
+Source: Amazon Reviews Dataset
+
+Records Used: First 1000 reviews (for efficient analysis)
+
+Key Columns:
+
+Text – Customer review text
+
+Score – Star rating (1 to 5)
+
+ID – Unique review identifier
+
+🛠 Technologies & Libraries Used
+
+Python
+
+Pandas & NumPy – Data manipulation
+
+Matplotlib & Seaborn – Data visualization
+
+NLTK – Natural Language Processing
+
+VADER SentimentIntensityAnalyzer – Sentiment scoring
+
+🔍 Methodology
+
+Loaded and explored the Amazon reviews dataset
+
+Applied VADER Sentiment Analyzer to calculate sentiment scores
+
+Classified reviews based on compound score thresholds:
+
+compound ≥ 0.05 → Positive
+
+compound ≤ -0.05 → Negative
+
+Otherwise → Neutral
+
+Created visualizations to analyze:
+
+Review count by star rating
+
+Overall sentiment distribution
+
+Sentiment percentage breakdown
+
+Sentiment trends across star ratings
+
+📊 Visualizations Included
+
+⭐ Number of Reviews by Star Rating (Bar Chart)
+
+😊 Sentiment Distribution (Bar Chart & Pie Chart)
+
+📈 Compound Sentiment Score by Star Rating
+
+📊 Positive, Negative & Neutral Sentiment Comparison by Rating
+
+📈 Key Insights
+
+Majority of reviews are positive, indicating strong customer satisfaction
+
+Higher star ratings correlate with higher positive sentiment scores
+
+Negative sentiment decreases as star ratings increase
+
+Neutral sentiment remains relatively consistent across ratings
