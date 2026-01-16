@@ -27,6 +27,7 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
 4.Average Sales Value
 
 📈 Dashboard Features
+
 🔹 Sales Analysis
    Monthly sales and quantity trends
    Day-wise sales performance
@@ -51,8 +52,9 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
     Day Name
 
 🛠 Tools & Technologies Used
-    Power BI – Data modeling, DAX, dashboard creation
-    Microsoft Excel – Data cleaning and preprocessing
+
+   Power BI – Data modeling, DAX, dashboard creation
+   Microsoft Excel – Data cleaning and preprocessing
 
 
 
