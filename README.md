@@ -62,7 +62,11 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
 
 
 
+
+
+
 2.SENTIMENT ANALYSIS
+
 📌 Project Overview
 
 This project performs sentiment analysis on Amazon product reviews to understand customer opinions and sentiment trends. Using Natural Language Processing (NLP) techniques and the VADER sentiment lexicon, reviews are classified into Positive, Negative, and Neutral categories. The results are visualized using multiple charts to derive meaningful insights.
