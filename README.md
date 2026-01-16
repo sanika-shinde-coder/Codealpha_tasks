@@ -7,16 +7,23 @@ The dashboard focuses on sales performance, customer behavior, brand analysis, a
 🎯 Project Objectives
 
 1.Analyze overall mobile sales performance
+
 2.Track key KPIs such as sales, quantity, transactions, and averages
+
 3.Identify top-performing brands and mobile models
+
 4.Understand customer preferences through ratings and payment methods
+
 5.Explore regional sales distribution across cities
 
 🧩 Key Metrics (KPIs)
 
 1.Total Sales
+
 2.Total Quantity Sold
+
 3.Total Transactions
+
 4.Average Sales Value
 
 📈 Dashboard Features
